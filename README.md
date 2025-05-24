@@ -138,14 +138,25 @@ Designed to streamline workshop and repair operations.
 This project was developed as part of the Infosys internship program by a Team of 10, completed in a 1-month Agile development sprint.
 
 ### 🚀 Team 
+- Sayal Singh
 - Himavarshith Reddy
 - Aryan Kacker
 - Param Patel
 - Rehmat Singh Chawla
 - Gunjan Mishra
 - Srijoni
-- Sayal Singh
 - Varun
 - Aditya Rai
 - Nikitha
+  
+---
 
+## ✅ App Demo Video
+
+- App demo video for driver side is provided 
+
+---
+
+## ✅ Login
+
+- Login Credentials for the driver & manager has been provided.
